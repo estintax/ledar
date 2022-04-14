@@ -1,0 +1,21 @@
+{
+  "name": "led-api",
+  "version": "1.0.0",
+  "description": "API methods for switching LED statuses on Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js -debug"
+  },
+  "keywords": [
+    "led",
+    "arduino",
+    "express",
+    "serialport"
+  ],
+  "author": "Maksim Pinigin <at@pinig.in>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.3",
+    "serialport": "^10.3.0"
+  }
+}
