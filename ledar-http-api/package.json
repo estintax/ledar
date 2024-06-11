@@ -15,7 +15,7 @@
   "author": "Maksim Pinigin <at@pinig.in>",
   "license": "UNLICENSED",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "serialport": "^10.3.0"
   }
 }
